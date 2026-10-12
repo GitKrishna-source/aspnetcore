@@ -11,5 +11,12 @@
     "MD025": {
       "front_matter_title": ""
     }
+  },
+  "cmake.sourceDirectory": "D:/OpenSourceProject/aspnetcore/src/submodules/googletest",
+  "dotnet.dotnetPath": "${workspaceFolder}/.dotnet/dotnet.exe",
+  "terminal.integrated.env.windows": {
+    "DOTNET_ROOT": "${workspaceFolder}\\.dotnet",
+    "DOTNET_ROOT(x86)": "${workspaceFolder}\\.dotnet\\x86",
+    "PATH": "${workspaceFolder}\\.dotnet;${env:PATH}"
   }
 }
